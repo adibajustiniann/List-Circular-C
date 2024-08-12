@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1637054117 source:d:\24060120130080_sd10\mainlistcircular.c
+	<stdio.h>
+	"ListCircular.h"
+
+1637054145 d:\24060120130080_sd10\listcircular.h
+	<stdio.h>
+	<stdlib.h>
+
+1637054153 source:d:\24060120130080_sd10\listcircular.c
+	"listCircular.h"
+	<stdio.h>
+	<stdlib.h>
+
+1637509779 source:e:\24060120130080_sd10\listcircular.c
+	"listCircular.h"
+	<stdio.h>
+	<stdlib.h>
+
+1637427447 e:\24060120130080_sd10\listcircular.h
+	<stdio.h>
+	<stdlib.h>
+
+1637509586 source:e:\24060120130080_sd10\mainlistcircular.c
+	<stdio.h>
+	"ListCircular.h"
+
